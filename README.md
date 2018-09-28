@@ -1,4 +1,4 @@
 # Food Recommendation System
 ## Collaborator
-Chaitanya Shah
-Dhara Gandhi
+1. Chaitanya Shah
+2. Dhara Gandhi
