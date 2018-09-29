@@ -3,4 +3,4 @@
 1. Chaitanya Shah
 2. Dhara Gandhi
 3. Recharla Naga Sravani
-4. Dharaben Patel
+4. Dhara Patel
